@@ -16,4 +16,4 @@ Async/Await is a long anticipated JavaScript feature that makes working with asy
 - Start your MongoDB server
 - Run `npm start` to start the nodejs-async-await-example server
 
-You can download the Postman collection <a href="http://skamaker.com/iu2" target"_blank">here</a>
+You can download the Postman collection [here](http://skamaker.com/iu2)
