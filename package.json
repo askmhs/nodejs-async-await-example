@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-async-await",
+  "version": "1.0.0",
+  "description": "NodeJS async/await example",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js --exec babel-node"
+  },
+  "keywords": [
+    "NodeJS",
+    "async/await",
+    "example"
+  ],
+  "author": "Muhammad Harits Syaifulloh",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "mongoose": "^4.13.6",
+    "restify": "^6.3.4"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-register": "^6.26.0"
+  }
+}
