@@ -2,11 +2,6 @@
 
 A simple implementation of async/await in NodeJs + ECMAScript
 
-<style>
-body {
-text-align: justify}
-</style>
-
 Async/Await is a long anticipated JavaScript feature that makes working with asynchronous functions much more enjoyable and easier to understand. It is build on top of Promises and is compatible with all existing Promise-based APIs.
 
 
@@ -21,4 +16,4 @@ Async/Await is a long anticipated JavaScript feature that makes working with asy
 - Start your MongoDB server
 - Run `npm start` to start the nodejs-async-await-example server
 
-You can download the Postman collection[here](href="http://skamaker.com/iu2)
+You can download the Postman collection [here](href="http://skamaker.com/iu2)
